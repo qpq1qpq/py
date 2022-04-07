@@ -1,5 +1,4 @@
 all_price = 0
-t = 0
 quan = int(input('Введите количество билетов: '))
 if quan == 0:
     quan = int(input('Введите введите целое чилсло: '))
